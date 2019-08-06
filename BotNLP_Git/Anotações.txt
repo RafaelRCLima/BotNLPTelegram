@@ -1,0 +1,13 @@
+1 - Instale as dependencias e execute o index.js no NLP-Training
+    npm install ------ Para instalar as dependencias
+    node index.js -------------- para criar o modelo (model.nlp)
+
+2 - Copie  o arquivo model.nlp para o diretório NLP_Server
+
+3 - Instale as dependencias e execute o index.js no diretório  NLP_Server
+    npm install ------ Para instalar as dependencias
+    node index.js 
+
+4 - Instale as dependencias e execute o index.js no diretório Bot_NLP
+    npm install ------ Para instalar as dependencias
+    node index.js 
